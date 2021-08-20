@@ -4,6 +4,7 @@
 [![blog](https://img.shields.io/badge/myluo.cn-0077B5.svg?&style=flat-square&logo=blogger&logoColor=white)](https://myluo.cn)
 [![projects](https://img.shields.io/badge/projects-2EC866.svg?&style=flat-square&logo=when-i-work&logoColor=white)](https://webapps.myluo.cn/en)
 [![scholar](https://img.shields.io/badge/scholar-4285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=LwZENJ8AAAAJ)
+
 ![](https://komarev.com/ghpvc/?username=Lmy0217&label=Views&style=flat-square)
 
 <!--details>	
@@ -18,5 +19,5 @@
   <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lmy0217&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lmy0217&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,CSS,JavaScript"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lmy0217&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,CSS,JavaScript,MATLAB"/>
 </details>
